@@ -54,7 +54,7 @@ PistaNode* criarPistaNode(const char* pista) {
     return novo;
 }
 
-// ============================
+// ====================
 // FUNÇÕES BST
 // ============================
 
